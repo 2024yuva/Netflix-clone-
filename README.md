@@ -38,7 +38,7 @@
 
 1. Clone this repository  
 ```bash
-git clone https://2024yuva/netflix-clone.git
+git clone https://github.com/2024yuva/Netflix-clone-.git
 Open index.html in your browser
 
 Done! 🎉
